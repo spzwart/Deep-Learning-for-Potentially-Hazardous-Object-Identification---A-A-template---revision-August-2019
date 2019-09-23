@@ -1,0 +1,66 @@
+\begin{thebibliography}{17}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Abadi {et~al.}(2016)Abadi, Barham, Chen, Chen, Davis, Dean, Devin,
+  Ghemawat, Irving, Isard, {et~al.}}]{TensorFlow}
+Abadi, M., Barham, P., Chen, J., {et~al.} 2016, in 12th $\{$USENIX$\}$
+  Symposium on Operating Systems Design and Implementation ($\{$OSDI$\}$ 16),
+  265--283
+
+\bibitem[{Barbee {et~al.}(2018)Barbee, Syal, Dearborn, Gisler, Greenaugh,
+  Howley, Leung, Lyzhoft, Miller, Nuth, Plesko, Seery, Wasem, Weaver, \&
+  Zebenay}]{BARBEE201837}
+Barbee, B.~W., Syal, M.~B., Dearborn, D., {et~al.} 2018, Acta Astronautica,
+  143, 37
+
+\bibitem[{Farinella \& et~al.(2001)}]{Tunguska}
+Farinella \& et~al. 2001, Astronomy and Astrophysics
+
+\bibitem[{Giorgini {et~al.}(2014)Giorgini, Chamberlin, \& B}]{dastcom5}
+Giorgini, J.~D., Chamberlin, \& B, A. 2014, DASTCOM5: A Portable and Current
+  Database of Asteroid and Comet Orbit Solutions
+
+\bibitem[{Johnston(2018)}]{SolarSystemObjects}
+Johnston, R. 2018, Known populations of solar system objects: July 2018
+
+\bibitem[{King(2014)}]{AdamOptimizer}
+King, L.~B. 2014, ICLR
+
+\bibitem[{Milani(2002)}]{milani2002}
+Milani, Chesley, C.~V. 2002, Asteroid Close Approaches: Analysis and Potential
+  Impact Detection
+
+\bibitem[{Misra1and \& Bus(2008)}]{ref1}
+Misra1and \& Bus. 2008, American Astronomical Society, 40, 508
+
+\bibitem[{NASA(2018{\natexlab{a}})}]{HorizonsManual}
+NASA. 2018{\natexlab{a}}, HORIZONS User Manual
+
+\bibitem[{NASA(2018{\natexlab{b}})}]{NasaPHA}
+NASA. 2018{\natexlab{b}}, PHA (Potentially Hazardous Asteroid)
+
+\bibitem[{NASA(2018{\natexlab{c}})}]{Sentry}
+NASA. 2018{\natexlab{c}}, Sentry: Earth Impact Monitoring
+
+\bibitem[{Nielson(2018)}]{Nielson}
+Nielson, M. 2018, Neural Networks and Deep Learning
+
+\bibitem[{{Portegies Zwart} \& Boekholt(2018)}]{PORTEGIESZWART2018160}
+{Portegies Zwart}, S.~F. \& Boekholt, T.~C. 2018, Communications in Nonlinear
+  Science and Numerical Simulation, 61, 160
+
+\bibitem[{Schweickart \& et~al.(2003)}]{10.2307/26060526}
+Schweickart, R.~L. \& et~al. 2003, Scientific American, 289, 54
+
+\bibitem[{Song \& Gong(2019)}]{ref2}
+Song \& Gong. 2019, Aerospace Science and Technology, 40, 508
+
+\bibitem[{Stern(2012)}]{KBO_Population}
+Stern, A. 2012, DASTCOM5: A Portable and Current Database of Asteroid and Comet
+  Orbit Solutions
+
+\bibitem[{Tedesco(1994)}]{Bostrom}
+Tedesco, E.~F. 1994, Asteroids, comets, meteors 1993: proceedings of the 160th
+  International Astronomical Union, Suppl 160, 55
+
+\end{thebibliography}
